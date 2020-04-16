@@ -1,5 +1,5 @@
 # due
-due is opensource second display software.
+due is opensource second display software. It works on OSX(HOST: Mac, Display: iOS).
 
 ## To-Do
 - [ ] work as a second display
